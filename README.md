@@ -15,9 +15,9 @@
 
 *¡Excelente!*
 
-*Para Ejecutar el bot tienes que usar páginas web de hostings de Servers que acepten Node.js*
+*Para Ejecutar el bot tienes que usar páginas web de hostings de **Servers** que acepten **Node.js***
 
-*Como Retslav (Creo que era así el nombre) y también VortexusCloud (Creo que acepta)*
+*Como **Retslav** (Creo que era así el nombre) y también **VortexusCloud** (Creo que acepta)*
 
-*Te recomiendo fijarte en todo tipo de sitios webs de hostings para ver si te puedes conseguir un server gratis*
+*Te recomiendo fijarte en todo tipo de sitios webs de hostings para ver si te puedes conseguir un **server gratis***
 
