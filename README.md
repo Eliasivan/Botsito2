@@ -9,4 +9,4 @@
 
 **NÚMERO DEL DUEÑO**
 
-[¡Enviar mensaje de WhatsApp!](https://wa.me/5492215034412)
+[¡Envia mensaje a mi WhatsApp!](https://wa.me/5492215034412)
