@@ -10,3 +10,11 @@
 **NÚMERO DEL DUEÑO**
 
 [¡Envia mensaje a mi WhatsApp!](https://wa.me/5492215034412)
+
+*¿Quieres probar el bot?*
+
+*¡Excelente!*
+
+*Para Ejecutar el bot tienes que usar páginas web de hostings de Servers que acepten Node.js*
+
+*
